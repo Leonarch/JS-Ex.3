@@ -5,4 +5,5 @@ students.push(student)
 }
 
 addStudent('Marco');
+
 console.log(students);
